@@ -15,7 +15,7 @@ Para instalar:
 '''Console
 python3 -m venv .venv
 source .venv/bin/activate
-pip install -5 requiments-dev.txt'''
+pip install -r requiments-dev.txt'''
 
 Para confirir a qualidade do código:
 '''Console
