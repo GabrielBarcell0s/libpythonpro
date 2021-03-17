@@ -7,4 +7,3 @@ install:
   pip install -r requirements-dev.txt
 script:
   - flake8
-group: stable
