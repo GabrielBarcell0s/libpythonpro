@@ -6,6 +6,8 @@ Nesse curso é ensinado como constribuir com projetos de código aberto
 link para o curso [PythonPro](https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.org/GabrielBarcell0s/libpythonpro.svg?branch=main)](https://travis-ci.org/GabrielBarcell0s/libpythonpro)
+[![Updates](https://pyup.io/repos/github/GabrielBarcell0s/libpythonpro/shield.svg)](https://pyup.io/repos/github/GabrielBarcell0s/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/GabrielBarcell0s/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/GabrielBarcell0s/libpythonpro/)
 
 suportado versão 3 de Python
 
