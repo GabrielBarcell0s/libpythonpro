@@ -1,6 +1,6 @@
 language: python
 dist: xenial
-python: -3.7
+python: -3.6
 sudo: true
 install:
     pip install -q -r requirements-dev.txt
