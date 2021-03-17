@@ -3,7 +3,7 @@ dist: xenial
 python: -3.6
 sudo: true
 install:
-    pip install -q -r requirements-dev.txt
+    pip install -r requirements-dev.txt
 script:
   flake8
 os: linux
