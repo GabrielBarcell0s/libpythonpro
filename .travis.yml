@@ -1,10 +1,8 @@
-os: linux
 language: python
+dist: xenial
 python:
   -3.9
 install:
   - pip install -q -r requirements-dev.txt
 script:
   - flake8
-dist: xenial
-group: stable
