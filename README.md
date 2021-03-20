@@ -8,8 +8,7 @@ link para o curso [PythonPro](https://www.python.pro.br/)
 [![Build Status](https://travis-ci.org/GabrielBarcell0s/libpythonpro.svg?branch=main)](https://travis-ci.org/GabrielBarcell0s/libpythonpro)
 [![Updates](https://pyup.io/repos/github/GabrielBarcell0s/libpythonpro/shield.svg)](https://pyup.io/repos/github/GabrielBarcell0s/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/GabrielBarcell0s/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/GabrielBarcell0s/libpythonpro/)
-
-suportado versão 3 de Python
+[![codecov](https://codecov.io/gh/GabrielBarcell0s/libpythonpro/branch/main/graph/badge.svg?token=OHFNFIYGJ9)](https://codecov.io/gh/GabrielBarcell0s/libpythonpro)suportado versão 3 de Python
 
 Para instalar:
 '''Console

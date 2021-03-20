@@ -4,7 +4,9 @@ dist: xenial
 python: 3.9
 sudo: true
 install:
-  pip install -r requirements-dev.txt
+  pip install -r requirements-dev.txt codecov
 script:
   - flake8
-  - pytest libpythonpro
+  - pytest libpythonpro --cov=libpythonpro
+after_success:
+  - codecov

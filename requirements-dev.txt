@@ -11,4 +11,8 @@ attrs==20.3.0
 pluggy==0.13.1
 pytest==6.2.2
 
+#Converage
+coverage==5.5
+pytest-cov==2.11.1
+
 install -r requirements.txt
